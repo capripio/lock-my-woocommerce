@@ -29,8 +29,8 @@ These are the following feature of this plugin:
 
 == Installation ==
 
-1. Unzip `food-and-drink-menu.zip`
-2. Upload the contents of `food-and-drink-menu.zip` to the `/wp-content/plugins/` directory
+1. Unzip `cp-lock-woocommerce.zip`
+2. Upload the contents of `cp-lock-woocommerce.zip` to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Go to Admin > WooCommerce > Settings > Lock My WooCommerce (Tab)
 
